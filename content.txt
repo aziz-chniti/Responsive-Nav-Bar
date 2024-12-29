@@ -1,0 +1,15 @@
+Brand
+Home
+About
+Services
+Projects
+Contact
+
+
+:root {
+    --color-primary: #132821;
+    --color-accent: #1B5B46;
+    --color-dark-green: #1D3F31;
+    --color-medium-green: #4C896C;
+    --color-light-green: #e2f0e7;
+}
